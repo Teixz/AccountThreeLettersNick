@@ -1,0 +1,10 @@
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\bin\Debug\AccountThreeLettersNick.exe.config
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\bin\Debug\AccountThreeLettersNick.exe
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\bin\Debug\AccountThreeLettersNick.pdb
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\bin\Debug\AccountThreeLettersNick.xml
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\obj\Debug\AccountThreeLettersNick.Resources.resources
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\obj\Debug\AccountThreeLettersNick.vbproj.GenerateResource.cache
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\obj\Debug\AccountThreeLettersNick.vbproj.CoreCompileInputs.cache
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\obj\Debug\AccountThreeLettersNick.exe
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\obj\Debug\AccountThreeLettersNick.xml
+C:\Users\gfgam\source\repos\AccountThreeLettersNick\AccountThreeLettersNick\obj\Debug\AccountThreeLettersNick.pdb
